@@ -84,7 +84,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Ocean" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Ocean is an anchor-free based tracker (ECCV2020)" # Site description and default description, also used in jekyll-seo-tag
+description: "Ocean (ECCV2020)" # Site description and default description, also used in jekyll-seo-tag
 url: "https://github.com/researchmm/TracKit" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/researchmm/TracKit"
