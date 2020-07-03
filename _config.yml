@@ -110,8 +110,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Ocean
   url: /
-- title: OceanPlus
-  url: /elements/
+# - title: OceanPlus
+#   url: /elements/
 - title: SiamDW
   url: /blog/
 # - title: Categories
