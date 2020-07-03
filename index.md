@@ -1,5 +1,5 @@
 ---
-title: Ocean: Object-aware Anchor-free Tracking
+title: Object-aware Anchor-free Tracking
 feature_text: |
   ## Ocean: Object-aware Anchor-free Tracking
   
