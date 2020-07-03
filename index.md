@@ -1,7 +1,7 @@
 ---
 title: Object-aware Anchor-free Tracking
 feature_text: |
-  # Ocean: Object-aware Anchor-free Tracking
+
   
 # feature_image: "https://picsum.photos/1300/400?image=989"
 feature_image: "https://i.postimg.cc/jqmzqzD7/titile-ocean.png"
