@@ -2,7 +2,7 @@
 title: SiamDW
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://i.postimg.cc/nc3dzrQm/siamdw.png"
+feature_image: "https://i.postimg.cc/d1FRncyv/siamdw.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
