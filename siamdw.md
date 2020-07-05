@@ -14,7 +14,7 @@ Siamese networks have drawn great attention in visual tracking because of their 
 
 
 ### Demo
-[![demo.gif](https://github.com/researchmm/SiamDW/tree/master/demo/vis.gif)](https://github.com/researchmm/SiamDW/tree/master/demo/vis.gif)
+[![demo.gif](https://media.giphy.com/media/lrmHrrrAMnPv9hjg5D/giphy.gif)](https://giphy.com/gifs/lrmHrrrAMnPv9hjg5D)
 
 
 ### Citation
