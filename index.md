@@ -21,12 +21,12 @@ Anchor-based Siamese trackers have achieved remarkable advancements in accuracy,
 
 ### Citation
 ```
-@article{Ocean_2020,
-  title={Ocean: Object-aware Anchor-free Tracking},
-  author={Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu},
-  journal={arXiv preprint arXiv:2006.10721},
-  year={2020}
-}
+@InProceedings{Ocean_2020_ECCV,
+author={Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu},
+title = {Ocean: Object-aware Anchor-free Tracking},
+booktitle = {The IEEE Conference on European Conference on Computer Vision (ECCV)},
+year = {2020}
+} 
 ```
 
 
