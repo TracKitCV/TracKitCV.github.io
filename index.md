@@ -10,16 +10,16 @@ layout: page
 
 [![Title.png](https://i.postimg.cc/2yM7Ltrs/paper-title.png)](https://postimg.cc/D4QXtBW6)
 
-## Abstract
+### Abstract
 Anchor-based Siamese trackers have achieved remarkable advancements in accuracy, yet the further improvement is restricted by the lagged tracking robustness. We find the underlying reason is that the regression network in anchor-based methods is only trained on the positive anchor boxes (i.e., IoU≥0.6). This mechanism makes it difficult to refine the anchors whose overlap with the target objects are small. In this paper, we propose a novel object-aware anchor-free network to address this issue. First, instead of refining the reference anchor boxes, we directly predict the position and scale of target objects in an anchor-free fashion. Since each pixel in groundtruth boxes is well trained, the tracker is capable of rectifying inexact predictions of target objects during inference. Second, we introduce a feature alignment module to learn an object-aware feature from predicted bounding boxes. The object-aware feature can further contribute to the classification of target objects and background. Moreover, we present a novel tracking framework based on the anchor-free model.  
 
 
 
-## Demo
+### Demo
 [![demo.gif](https://i.postimg.cc/yN8vDtRN/oceanplus.gif)](https://postimg.cc/68FdSHYs)
 
 
-## Citation
+### Citation
 ```
 @article{Ocean_2020,
   title={Ocean: Object-aware Anchor-free Tracking},
