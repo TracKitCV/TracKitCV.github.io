@@ -16,7 +16,12 @@ Anchor-based Siamese trackers have achieved remarkable advancements in accuracy,
 
 
 ### Demo
-[![demo.gif](https://i.postimg.cc/yN8vDtRN/oceanplus.gif)](https://postimg.cc/68FdSHYs)
+<!-- [![demo.gif](https://i.postimg.cc/yN8vDtRN/oceanplus.gif)](https://postimg.cc/68FdSHYs) -->
+
+<div align="left">
+  <img src="demo/ocean1.gif" width="800px" />
+  <!-- <p>Example SiamFC, SiamRPN and SiamMask outputs.</p> -->
+</div>
 
 
 ### Citation
